@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../core"
+		},
+		{
+			"path": "../meu_projeto"
+		},
+		{
+			"path": "../site_institucional"
+		}
+	]
+}

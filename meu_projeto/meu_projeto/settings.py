@@ -37,6 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'core', #Adicionando a nova aplicação django
+    'site_institucional', #Adicionando a aplicação site_institucional
+    'app_cadastro', # Adicionando a aplicação app_cadastro
+    'loja',
 ]
 
 MIDDLEWARE = [
@@ -121,3 +125,5 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
